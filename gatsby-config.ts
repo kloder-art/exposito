@@ -27,11 +27,15 @@ const config: GatsbyConfig = {
         navigation: [
           { name: 'Proyectos', slug: '/projects' },
           { name: 'Nosotros', slug: '/nosotros' },
+          { name: 'Herramientas', slug: '/herramientas' },
+          { name: 'Q&A', slug: '/preguntas' },
+          { name: 'Contacto', slug: '/contacto' },
         ],
         homepageProjectLimit: 10,
       },
     },
     'gatsby-plugin-image',
+    'gatsby-plugin-sass',
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {
