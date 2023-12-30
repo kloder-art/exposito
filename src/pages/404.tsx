@@ -6,7 +6,7 @@ const NotFound = (_props: PageProps) => (
   <Layout>
     <div style={{ textAlign: `center` }}>
       <h1>404</h1>
-      <p>Page not found.</p>
+      <p>Página no encontrada, aún no la hemos pintado...</p>
     </div>
   </Layout>
 )
