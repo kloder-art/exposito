@@ -6,7 +6,7 @@
   "author": "Kloder",
   "license": "0BSD",
   "scripts": {
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "serve": "gatsby serve",
