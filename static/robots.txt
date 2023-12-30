@@ -1,3 +1,2 @@
 User-agent: *
-
-sitemap: https://exposito.art/sitemap-index.xml
+Disallow: /
